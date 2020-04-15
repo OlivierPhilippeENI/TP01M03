@@ -1,0 +1,13 @@
+D:\vs\TP01M03\bin\Debug\netcoreapp3.1\TP01M03.exe
+D:\vs\TP01M03\bin\Debug\netcoreapp3.1\TP01M03.deps.json
+D:\vs\TP01M03\bin\Debug\netcoreapp3.1\TP01M03.runtimeconfig.json
+D:\vs\TP01M03\bin\Debug\netcoreapp3.1\TP01M03.runtimeconfig.dev.json
+D:\vs\TP01M03\bin\Debug\netcoreapp3.1\TP01M03.dll
+D:\vs\TP01M03\bin\Debug\netcoreapp3.1\TP01M03.pdb
+D:\vs\TP01M03\obj\Debug\netcoreapp3.1\TP01M03.csprojAssemblyReference.cache
+D:\vs\TP01M03\obj\Debug\netcoreapp3.1\TP01M03.csproj.CoreCompileInputs.cache
+D:\vs\TP01M03\obj\Debug\netcoreapp3.1\TP01M03.AssemblyInfoInputs.cache
+D:\vs\TP01M03\obj\Debug\netcoreapp3.1\TP01M03.AssemblyInfo.cs
+D:\vs\TP01M03\obj\Debug\netcoreapp3.1\TP01M03.dll
+D:\vs\TP01M03\obj\Debug\netcoreapp3.1\TP01M03.pdb
+D:\vs\TP01M03\obj\Debug\netcoreapp3.1\TP01M03.genruntimeconfig.cache
